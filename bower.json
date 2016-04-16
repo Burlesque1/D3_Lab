@@ -1,5 +1,5 @@
 {
-  "name": "D3_Lab",
+  "name": "d3_lab",
   "description": "",
   "main": "",
   "license": "MIT",
@@ -10,5 +10,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "jQuery": "^2.2.3",
+    "d3": "^3.5.16"
+  }
 }
